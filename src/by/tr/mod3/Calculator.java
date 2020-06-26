@@ -57,3 +57,4 @@ public class Calculator {
         while (!sc.nextLine().equals("stop"));
     }
 }
+// задачи модуля 3 защитаны
